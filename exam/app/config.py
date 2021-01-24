@@ -1,5 +1,0 @@
-SECRET_KEY = b'a\x8d (\xa4_\xccC\xf5\xe52h\xda\xcd\xe2\xfd'
-MYSQL_USER = 'std_1090'
-MYSQL_HOST = 'std-mysql.ist.mospolytech.ru'
-MYSQL_DATABASE = 'std_1090'
-MYSQL_PASSWORD = 'lena05petrenko!'
