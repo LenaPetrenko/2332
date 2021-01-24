@@ -1,0 +1,23 @@
+
+.main-color {
+    background-color: #28353d;
+}
+
+.nav-color
+{
+    background-color: #001624;
+}
+.main-text{
+    color:   #83bbde;
+}
+
+footer{
+    background-color: #001624;
+    color:   #83bbde;
+}
+
+.ava{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
